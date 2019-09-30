@@ -4,5 +4,5 @@ you can create a hello world in your favorite programming language and submit he
 don't forget to add your name and programming language you have used to the readme file after and happy coding !!!
 
 ```
-Nann - Python
+Nann - JavaScript
 ```
