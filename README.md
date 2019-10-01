@@ -7,4 +7,5 @@ don't forget to add your name and programming language you have used to the read
 Nann - JavaScript
 kemda26 - Python
 pikami - GO
+JinapriyaMadushanka - JavaScript
 ```
